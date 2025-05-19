@@ -1,0 +1,14 @@
+*.bin
+*.sif
+*.pyc
+*.svg
+*.tar
+*.pkl
+*.out
+*.tar.gz
+
+ckpt/
+log/
+test.*
+/*/README*
+.*/
